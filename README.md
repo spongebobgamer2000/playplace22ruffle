@@ -1,6 +1,6 @@
-# Ruffle-Embedded
+# Ruffle Embedded
 
-<img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/Happygamer1450/Ruffle-Embedded"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/Happygamer1450/Ruffle-Embedded?style=plastic"> ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Happygamer1450/Happygamer1450/main) <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Happygamer1450?style=social"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCN3tHmcous5uz0_5dPLeFfQ?style=social">
+<img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/Happygamer1450/Ruffle-Embedded"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/Happygamer1450/Ruffle-Embedded?style=plastic"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Happygamer1450/Ruffle-Embedded"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Happygamer1450?style=social"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCN3tHmcous5uz0_5dPLeFfQ?style=social">
 
 CHECK OUT THE MAKERS OF RUFFLE OK SO I DONT GET SUED https://github.com/ruffle-rs/ruffle
 
