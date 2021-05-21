@@ -2,9 +2,14 @@
 
 <img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/Happygamer1450/Ruffle-Embedded"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/Happygamer1450/Ruffle-Embedded?style=plastic"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Happygamer1450/Ruffle-Embedded"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Happygamer1450?style=social"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCN3tHmcous5uz0_5dPLeFfQ?style=social">
 
-CHECK OUT THE MAKERS OF RUFFLE OK SO I DONT GET SUED https://github.com/ruffle-rs/ruffle
+### Script to use Ruffle Flash Emulator with Embedded Scripts
 
-the script but updated xd might release a tutorial soon
+*CHECK OUT THE MAKERS OF RUFFLE OK SO I DONT GET SUED https://github.com/ruffle-rs/ruffle*
+
+**I advise you to check out the Wiki on how to put it on your Google Sites site and how to upload the .swf file: https://github.com/Happygamer1450/Ruffle-Embedded/wiki
+seriously it will help you**
+
+
 For copy and paste:
 ```html
 <script src="https://happygamer1450.github.io/Ruffle-Embedded/ruffle/ruffle.js"></script>
@@ -14,8 +19,8 @@ For copy and paste:
 ```
 (If it doesnt show the script) https://pastebin.com/zbEspgPv
 
-(insert a swf file there doe)
+If you don
 
-Annnd i will be updating it and it actually worked so im just saying i just found it odd that he had the old version of ruffle.
+### I WILL be updating this frequently but you DONT have to change the embedded Script!!
 
-PS: If ruffle complains i will comply if they want me to change it up credits to minecraftgamingbug for the idea!
+PS: If ruffle complains i will comply if they want me to change it up
