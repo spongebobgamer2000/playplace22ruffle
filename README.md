@@ -19,8 +19,7 @@ For copy and paste:
 ```
 (If it doesnt show the script) https://pastebin.com/zbEspgPv
 
-If you don
 
 ### I WILL be updating this frequently but you DONT have to change the embedded Script!!
 
-PS: If ruffle complains i will comply if they want me to change it up
+PS: If ruffle complains about legal stuff i will comply if they want me to change it up
