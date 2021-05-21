@@ -1,5 +1,5 @@
 # Ruffle-Embedded
-CHECK OUT THE MAKERS OF RUFFLE OK SO I DONT GET SUED and minecraftgaming should listen to this! https://github.com/ruffle-rs/ruffle
+CHECK OUT THE MAKERS OF RUFFLE OK SO I DONT GET SUED https://github.com/ruffle-rs/ruffle
 
 the script but updated xd might release a tutorial soon
 For copy and paste:
