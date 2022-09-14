@@ -4,7 +4,7 @@
 
 ### Script to use Ruffle Flash Emulator with Embedded Scripts
 
-# Well i've decided to archive this repository for the reason of: it takes a lot of work, if no one coorperates i can't do it and its not worth it to do it alone. This will still work with the 05/20/2021 Build but i won't update it anymore.
+# Ruffle is cool :).
 
 *CHECK OUT THE MAKERS OF RUFFLE OK SO I DONT GET SUED https://github.com/ruffle-rs/ruffle*
 
